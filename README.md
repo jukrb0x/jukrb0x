@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Jukrb0x's github stats" src="https://github-readme-stats.vercel.app/api?username=jukrb0x&show_icons=true&theme=synthwave" />
 
-## James Bond 🥷🏿
+## James Bond 🥷🏿 007
 
 I'm jukrb0x. <del>Working for MI6</del>
 
