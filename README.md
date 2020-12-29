@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Jukrb0x's github stats" src="https://github-readme-stats.vercel.app/api?username=jukrb0x&show_icons=true&theme=synthwave" />
+<img align="right" alt="Jukrb0x's github stats" src="https://github-readme-stats.vercel.app/api?username=jukrb0x&show_icons=true&theme=tokyonight" />
 
 ## James Bond 🥷🏿 007
 
