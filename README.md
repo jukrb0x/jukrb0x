@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 I'm jukrb0x. <del>Working for MI6</del>
 
-Focusing on Open Source community,
-
-Passionate about the open and free Internet,
-
-Coding to live better.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C&logoColor=fff) 
