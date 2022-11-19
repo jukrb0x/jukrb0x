@@ -1,6 +1,10 @@
+#### Hi there :palm_tree:
+
 <samp>
 
-Always Exploring.
+- Focus now: GameDev, Computer Graphics, Frontend & UX, Rust.
+- Scientists discover the world that exists, engineers create the world that never was.
+- Always Exploring.
 
 </samp>
 
