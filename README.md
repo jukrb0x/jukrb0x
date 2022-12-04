@@ -14,7 +14,7 @@
   - Mischief Managed.
   
   
-  #### Reach out to me:
+  #### Reach out to me
 
 </samp>
 
