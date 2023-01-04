@@ -6,7 +6,7 @@
   <code>GameDev</code>, <code>Computer Graphics</code>, <code>Frontend & UX</code>, <code>Rust</code>.
   
   
-  #### Some facts about me
+  #### me.WorldContext.facts()
   
   - Coding is storytelling.
   - Scientists discover the world that exists, engineers create the world that never was.
@@ -14,7 +14,7 @@
   - Mischief Managed.
   
   
-  #### Reach out to me
+  #### me.contact()
 
 </samp>
 
