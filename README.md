@@ -6,7 +6,7 @@
   <code>GameDev</code>, <code>Computer Graphics</code>, <code>Frontend & UX</code>, <code>Rust</code>.
   
   
-  #### me.WorldContext.facts()
+  #### me.worldContext.facts()
   
   - Coding is storytelling.
   - Scientists discover the world that exists, engineers create the world that never was.
