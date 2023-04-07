@@ -3,10 +3,10 @@
   
   #### me.current.focus()
   
-  <code>GameDev</code>, <code>Computer Graphics</code>, <code>Frontend & UX</code>, <code>Rust</code>.
+  <code>GameDev</code> <code>Unreal Engine</code> <code>Computer Graphics</code> <code>Frontend & UX</code> <code>Rust</code>.
   
   
-  #### me.worldContext.facts()
+  #### me.worldContext.world()
   
   - Coding is storytelling.
   - Scientists discover the world that exists, engineers create the world that never was.
