@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there :palm_tree:
+<samp>
+  
+  ### Focus
+  
+  <code>GameDev</code> <code>Unreal Engine</code> <code>Computer Graphics</code> <code>DX & UX</code> <code>Rust</code> <code>Web</code>
+  
+  
+  ### Facts
+  
+  - I build games and tools with Unreal Engine
+  - Scientists discover the world that exists, engineers create the world that never was
+  - Always Exploring
+  
+  
+  ### More?
 
-<!--
-**jukrb0x/jukrb0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Check out [Space Radio](https://spacerad.io)
 
-Here are some ideas to get you started:
+</samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
